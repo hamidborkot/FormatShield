@@ -1,0 +1,7 @@
+model,provider,alignment,rate_visible,rate_hidden_css,rate_hidden_unicode,rate_overall
+llama-3.3-70b-versatile,Groq,Permissive,0.8333,0.3333,0.6667,0.6111
+llama-3.1-8b-instant,Groq,Permissive,0.8333,0.1667,0.5,0.5
+deepseek-r1-distill-llama-70b,Groq,Restrictive,0.0,0.0,0.0,0.0
+gemma2-9b-it,Groq,Restrictive,0.0,0.0,0.0,0.0
+glm-4-flash,ZAI,Restrictive,0.0,0.0,0.0,0.0
+glm-4-air,ZAI,Restrictive,0.0,0.0,0.0,0.0
