@@ -1,0 +1,16 @@
+{
+  "avg_ms_per_doc": 0.26,
+  "fs_minutes_for_10k": 0.04,
+  "phantom_days_for_10k": 7.9,
+  "speed_ratio_vs_phantomlint": 259812,
+  "phantomlint_ms_per_doc": 68250,
+  "phantomlint_source": "arxiv:2508.17884v2",
+  "batch_results": [
+    {"n": 10,   "ms_per_doc": 0.12, "docs_per_sec": 8611},
+    {"n": 50,   "ms_per_doc": 0.36, "docs_per_sec": 2754},
+    {"n": 100,  "ms_per_doc": 0.35, "docs_per_sec": 2858},
+    {"n": 500,  "ms_per_doc": 0.28, "docs_per_sec": 3578},
+    {"n": 1000, "ms_per_doc": 0.37, "docs_per_sec": 2730},
+    {"n": 1730, "ms_per_doc": 0.10, "docs_per_sec": 9875}
+  ]
+}
