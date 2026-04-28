@@ -1,0 +1,5 @@
+path,count,pct
+structural_only,1050,85.4
+semantic_only,57,4.6
+combined,64,5.2
+false_negative,60,4.9

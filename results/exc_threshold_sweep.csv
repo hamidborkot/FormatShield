@@ -1,0 +1,10 @@
+Q,B,F1,FPR,Notes
+0.1,0.6,0.92,0.002,FPR>0 rejected
+0.15,0.6,0.948,0.0005,FPR>0 rejected
+0.2,0.6,0.963,0.0,FPR=0 lower recall
+0.25,0.6,0.975,0.0,OPTIMAL selected
+0.3,0.6,0.962,0.0,lower recall
+0.35,0.6,0.949,0.0,lower recall
+0.4,0.6,0.934,0.0,lower recall
+0.45,0.6,0.918,0.0,lower recall
+0.5,0.6,0.899,0.0,lower recall

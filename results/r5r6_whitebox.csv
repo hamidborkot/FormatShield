@@ -1,0 +1,11 @@
+id,strategy,detected,outcome
+1,CSS_removed_keyword_present,1,DETECTED
+2,CSS_present_keyword_b64,1,DETECTED
+3,CSS_present_keyword_leet,1,DETECTED
+4,CSS_present_keyword_zwsp,1,DETECTED
+5,minimal_semantic_no_css_short,0,EVADED
+6,CSS_present_keyword_rot13,1,DETECTED
+7,minimal_semantic_paraphrase,0,EVADED
+8,CSS_opacity_001_keyword,1,DETECTED
+9,CSS_present_unicode_homoglyph,1,DETECTED
+10,minimal_semantic_indirect,0,EVADED

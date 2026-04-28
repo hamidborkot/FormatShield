@@ -1,0 +1,6 @@
+system,F1,CI_lower,CI_upper
+FormatShield,0.9583,0.9329,0.9804
+RAGuard,0.9209,0.8852,0.9517
+RegexOnly,0.8095,0.7545,0.8571
+StructuralOnly,0.8372,0.7852,0.8817
+SemanticOnly,0.9209,0.8828,0.9517

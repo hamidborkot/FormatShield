@@ -1,0 +1,5 @@
+baseline,b,c,chi2,p_value,significant
+RAGuard,10,0,8.1,0.004427,True
+RegexOnly,36,0,34.0278,1e-06,True
+StructuralOnly,36,6,20.0238,8e-06,True
+SemanticOnly,10,0,8.1,0.004427,True
