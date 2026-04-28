@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use FormatShield in your research, please cite it as below."
+type: software
+title: "FormatShield: Pre-LLM Structural Gate Against Format-Based Prompt Injection in RAG Pipelines"
+authors:
+  - family-names: "Borkot Tulla"
+    given-names: "MD Hamid"
+    orcid: ""
+version: "1.0.0"
+date-released: "2026-04-28"
+license: MIT
+repository-code: "https://github.com/hamidborkot/FormatShield"
+abstract: >
+  FormatShield is a pre-retrieval, format-aware structural gate that detects
+  format-based prompt injection (FBPI) embedded in documents before they reach
+  a large language model in a Retrieval-Augmented Generation (RAG) pipeline.
+  It achieves F1=0.9750, Precision=1.0000, FPR=0.0000 on a 1,730-document
+  benchmark, operates entirely offline (CPU-only, no LLM calls), and is
+  statistically superior to all four baseline defenses (McNemar p<=0.0044).
+keywords:
+  - prompt injection
+  - RAG security
+  - format-based attack
+  - LLM safety
+  - document security
+  - retrieval-augmented generation
+preferred-citation:
+  type: article
+  title: "FormatShield: Pre-LLM Structural Gate Against Format-Based Prompt Injection in RAG Pipelines"
+  authors:
+    - family-names: "Borkot Tulla"
+      given-names: "MD Hamid"
+  journal: "Cybersecurity (SpringerOpen)"
+  year: 2026
+  status: under-review
