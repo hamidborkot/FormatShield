@@ -8,7 +8,7 @@
 [![Journal: Cybersecurity SpringerOpen](https://img.shields.io/badge/journal-Cybersecurity%20SpringerOpen-green.svg)](https://cybersecurity.springeropen.com/)
 
 > **Paper under review** — *Cybersecurity (SpringerOpen), 2026*  
-> Author: MD Hamid Borkot Tulla
+> Author: 
 
 ---
 
